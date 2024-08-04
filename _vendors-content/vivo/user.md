@@ -123,42 +123,42 @@ Another layout for the similar feature, this time unde the name *Background powe
     <figcaption>1. Open Battery section.</figcaption>
   </figure>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_2.jpg">
-    <figcaption>2. Open Background power consumption management..</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_2.jpg">
+    <figcaption>2.开放后台功耗管理。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_3.jpg">
-    <figcaption>3. Enable for your app.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_3.jpg">
+    <figcaption>3.为您的应用开启。</figcaption>
+  </数字>
 
 </div>
 
 
-## Battery optimization
+##电池优化
 
-In the Battery section for each app, you can put the app into *not-optimized* pile of apps, which will prevent the app from being closed by the optimization processes.
+在每个应用程序的电池部分，您可以将应用程序*未优化*应用堆，这将防止应用被优化过程关闭。
 
-<div class="img-block">
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_1.jpg">
-    <figcaption>1. Hold down the app icon, and click App Info.</figcaption>
-  </figure>
+<div班级="img-block">
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_1.jpg">
+    <figcaption>1、长按应用图标，点击应用信息。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_2.jpg">
-    <figcaption>2. In App Info menu, scroll to Battery and click on the percent use.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_2.jpg">
+    <figcaption>2.在应用程序信息菜单中，滚动至电池并点击使用百分比。</figcaption>
+  </数字>
 
-  <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_3.jpg">
-    <figcaption>3. From the Battery Usage, click on Battery Optimization.</figcaption>
-  </figure>
+  <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_3.jpg">
+    <figcaption>3.在“Battery Usage(电池使用情况)”中，单击“Battery Optimization(电池优化)”。</figcaption>
+  </数字>
 
-   <figure>
-    <img src="/assets/img/vivo/vivo_battery_optimization_4.jpg">
-    <figcaption>4. Make sure to set the app to "Not optimized".</figcaption>
-  </figure>
+   <数字>
+    <IMGsrc="/assets/img/vivo/vivo_battery_optimization_4.jpg">
+    <figcaption>4.确保应用设置为“未优化”。</figcaption>
+  </数字>
 
 </div>
